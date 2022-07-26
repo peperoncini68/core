@@ -1,3 +1,3 @@
 # core
 core del progetto
-modificato da pepe68
+modificato da administrator
